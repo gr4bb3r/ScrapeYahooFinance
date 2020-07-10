@@ -1,3 +1,3 @@
 # ScrapeYahooFinance
 
-This is a simple R script made for a friend which scrapes a section of Yahoo Finance which Excel Power Query could not access
+This is a series of simple R scripts made for a friend which scrape a section of Yahoo Finance that Excel Power Query could not access
